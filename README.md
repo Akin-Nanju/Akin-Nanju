@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akin
-- 👀 I’m interested in Data Science.
+- 👀 I’m interested in Data Engineering.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
