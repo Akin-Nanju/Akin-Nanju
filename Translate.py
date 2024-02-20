@@ -1,0 +1,24 @@
+#SMALL TRANSLATOR
+#NOTE THAT IT IS NOT A REAL TRANSALTOR
+#
+#DEFINING A FUNCTION THAT TAKE ONW PARAMETER AS INPUT
+def Translator (str):
+    word = " "
+#ACCESSING EACH VALUE IN STR
+    for i in str:
+#CHECKING IF THE WORD CONTAIN ANY VOWEL OR NOT IN BOTH LOWER OR UPPERCASE
+        if i in "AEIOUaeiou":
+#IF YES REPLACING THE WORD WITH N
+            word = word + "n"
+        else:
+#IF NOT ADDING WHATERVER THE WORD IS
+            word = word + i
+
+#RETURNING THE VALUE  TO FUNCTION
+    return word
+#PRINTING AND GIVING VALUE TO FUNCTION
+print(Translator("AKIN"))
+
+
+
+
